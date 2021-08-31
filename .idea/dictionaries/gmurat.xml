@@ -1,0 +1,33 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="gmurat">
+    <words>
+      <w>accoustic</w>
+      <w>amax</w>
+      <w>audiodata</w>
+      <w>audiofeat</w>
+      <w>chromagram</w>
+      <w>conv</w>
+      <w>cvbn</w>
+      <w>intersec</w>
+      <w>lenght</w>
+      <w>librosa</w>
+      <w>lstm</w>
+      <w>mels</w>
+      <w>melspectrogram</w>
+      <w>mfcc</w>
+      <w>multipl</w>
+      <w>oenv</w>
+      <w>samplingrate</w>
+      <w>sched</w>
+      <w>sequentialize</w>
+      <w>stft</w>
+      <w>tempogram</w>
+      <w>timestep</w>
+      <w>timesteps</w>
+      <w>trunck</w>
+      <w>wlen</w>
+      <w>yprime</w>
+      <w>zprime</w>
+    </words>
+  </dictionary>
+</component>
